@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ff6ec4,25:7873f5,50:4facfe,75:43e97b,100:f9d423&text=Nandakshat%20Nayak&fontSize=48&fontAlignY=38&desc=Colorful%20Portfolio%20Profile&descAlignY=58&animation=fadeIn" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ff6ec4,25:7873f5,50:4facfe,75:43e97b,100:f9d423&text=Akshat%20Nand&fontSize=48&fontAlignY=44&animation=fadeIn" alt="header banner" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF61C3&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student+at+ITER%2C+Bhubaneswar;Aspiring+Data+Scientist+and+ML+Engineer;Building+Projects+with+Python%2C+ML%2C+and+Curiosity)](https://git.io/typing-svg)
 
@@ -12,7 +12,7 @@
 
 ## About Me
 
-I am **Nandakshat**, a **B.Tech Computer Science student at ITER, Bhubaneswar**, with a growing interest in **Data Science, Machine Learning, Python, and real-world software projects**.
+I am **Akshat Kumar Nand**, a **B.Tech Computer Science student at ITER, Bhubaneswar**, with a growing interest in **Data Science, Machine Learning, Python, and real-world software projects**.
 
 I enjoy turning ideas into projects that are practical, visual, and meaningful. Right now, I am focused on strengthening my fundamentals in:
 
@@ -99,6 +99,6 @@ Update these links with your best repositories:
 
 <div align="center">
 
-<sub>This profile README was designed as a colorful portfolio-style introduction with animated elements.</sub>
+<sub>This profile README includes animated elements and a portfolio-style layout.</sub>
 
 </div>
