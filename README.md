@@ -1,67 +1,81 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ff6ec4,25:7873f5,50:4facfe,75:43e97b,100:f9d423&text=Akshat%20Nand&fontSize=48&fontAlignY=44&animation=fadeIn" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4facfe,100:43e97b&text=Hey,%20I'm%20Akshat%20👋&fontSize=38&fontAlignY=40&animation=fadeIn&fontColor=ffffff" alt="header banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF61C3&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student+at+ITER%2C+Bhubaneswar;Aspiring+Data+Scientist+and+ML+Engineer;Building+Projects+with+Python%2C+ML%2C+and+Curiosity)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=4FACFE&center=true&vCenter=true&width=800&lines=B.Tech+CSE+Student+%40+ITER%2C+Bhubaneswar;Aspiring+Data+Scientist+%26+ML+Engineer;Learning+Python%2C+ML%2C+and+DSA+every+day" alt="Typing SVG" />
+</a>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=nandakshat9988&label=Profile%20Views&color=ff69b4&style=for-the-badge)](https://github.com/nandakshat9988)
-[![GitHub followers](https://img.shields.io/github/followers/nandakshat9988?style=for-the-badge&color=8a2be2)](https://github.com/nandakshat9988?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/nandakshat9988?style=for-the-badge&color=00c2ff)](https://github.com/nandakshat9988?tab=repositories)
+<br/>
 
-</div>
-
-## About Me
-
-I am **Akshat Kumar Nand**, a **B.Tech Computer Science student at ITER, Bhubaneswar**, with a growing interest in **Data Science, Machine Learning, Python, and real-world software projects**.
-
-I enjoy turning ideas into projects that are practical, visual, and meaningful. Right now, I am focused on strengthening my fundamentals in:
-
-- Data Science and Machine Learning
-- Python development
-- Problem solving and DSA
-- Building portfolio projects that combine code, analysis, and design
-
-## Current Focus
-
-- Learning how to build end-to-end machine learning projects
-- Exploring data analysis, forecasting, and model deployment
-- Improving GitHub, open-source, and project presentation skills
-- Creating a strong portfolio for internships and placements
-
-## Tech Stack
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,git,github,vscode,sklearn,pytorch,mysql)](https://skillicons.dev)
+<img src="https://komarev.com/ghpvc/?username=nandakshat9988&label=Profile%20Views&color=43e97b&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/nandakshat9988?style=flat-square&color=4facfe&label=Followers" alt="Followers" />
+<img src="https://img.shields.io/github/stars/nandakshat9988?style=flat-square&color=f9d423&label=Stars" alt="Stars" />
 
 </div>
 
-## GitHub Analytics
+<br/>
+
+## 🎯 About Me
+
+I'm **Akshat Kumar Nand**, a **B.Tech Computer Science student at ITER, Bhubaneswar**, with a growing interest in **Data Science, Machine Learning, Python, and real-world software projects**.
+
+I enjoy turning ideas into projects that are practical, visual, and meaningful — and right now I'm sharpening my fundamentals in:
+
+- 📊 Data Science and Machine Learning
+- 🐍 Python development
+- 🧩 Problem solving and DSA
+- 🛠️ Portfolio projects that combine code, analysis, and design
+
+<br/>
+
+## 🚀 Current Focus
+
+| | |
+|---|---|
+| 🔍 | Building end-to-end machine learning projects |
+| 📈 | Exploring data analysis, forecasting, and model deployment |
+| 🌱 | Improving GitHub, open-source, and project-presentation skills |
+| 🎓 | Creating a strong portfolio for internships and placements |
+
+<br/>
+
+## 🧰 Tech Stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nandakshat9988&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandakshat9988&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,git,github,vscode,sklearn,pytorch,mysql" alt="Tech stack icons" />
 
 </div>
 
+<br/>
+
+## 📊 GitHub Analytics
+
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=nandakshat9988&theme=radical&hide_border=true&border_radius=12" alt="GitHub streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nandakshat9988&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandakshat9988&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=nandakshat9988&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
 
 </div>
 
-## Contribution Activity
+<br/>
+
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nandakshat9988&theme=react-dark&hide_border=true&bg_color=0d1117&color=ff61c3&line=4facfe&point=f9d423" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nandakshat9988&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=4facfe&line=43e97b&point=f9d423" alt="Contribution graph" />
 
 </div>
 
-## Contribution Snake
-
-<div align="center">
+<details>
+<summary><b>🐍 Contribution Snake</b></summary>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nandakshat9988/nandakshat9988/output/github-contribution-grid-snake-dark.svg" />
@@ -69,36 +83,46 @@ I enjoy turning ideas into projects that are practical, visual, and meaningful. 
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/nandakshat9988/nandakshat9988/output/github-contribution-grid-snake.svg" />
 </picture>
 
-</div>
+</details>
 
-## Highlight
+<br/>
+
+## 💡 Featured Projects
+
+> Update these links with your best repositories
+
+- 🔹 [Stock Price Prediction Project](https://github.com/nandakshat9988)
+- 🔹 [Machine Learning Projects](https://github.com/nandakshat9988?tab=repositories)
+- 🔹 [Python Practice & DSA](https://github.com/nandakshat9988?tab=repositories)
+
+<br/>
+
+## 📌 Highlight
 
 ```text
 Code. Learn. Build. Improve. Repeat.
 ```
 
-## Featured Projects
+<br/>
 
-Update these links with your best repositories:
-
-- [Stock Price Prediction Project](https://github.com/nandakshat9988)
-- [Machine Learning Projects](https://github.com/nandakshat9988?tab=repositories)
-- [Python Practice and DSA](https://github.com/nandakshat9988?tab=repositories)
-
-## Connect
+## 📫 Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-nandakshat9988-181717?style=for-the-badge&logo=github)](https://github.com/nandakshat9988)
-[![College](https://img.shields.io/badge/ITER-Bhubaneswar-ff4ecd?style=for-the-badge)](https://www.soa.ac.in/iter)
-[![Focus](https://img.shields.io/badge/Focus-Data%20Science%20%7C%20ML-00c2ff?style=for-the-badge)](https://github.com/nandakshat9988)
+<a href="https://github.com/nandakshat9988">
+  <img src="https://img.shields.io/badge/GitHub-nandakshat9988-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+<a href="https://www.soa.ac.in/iter">
+  <img src="https://img.shields.io/badge/ITER-Bhubaneswar-4facfe?style=for-the-badge" alt="College" />
+</a>
+<a href="https://github.com/nandakshat9988">
+  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%7C%20ML-43e97b?style=for-the-badge" alt="Focus" />
+</a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
-
-<sub>This profile README includes animated elements and a portfolio-style layout.</sub>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:43e97b,100:4facfe&section=footer" alt="footer" />
 </div>
