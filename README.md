@@ -9,8 +9,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=nandakshat9988&label=Profile%20Views&color=43e97b&style=flat-square" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/nandakshat9988?style=flat-square&color=4facfe&label=Followers" alt="Followers" />
-<img src="https://img.shields.io/github/stars/nandakshat9988?style=flat-square&color=f9d423&label=Stars" alt="Stars" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnandakshat9988&query=%24.followers&label=Followers&color=4facfe&style=flat-square" alt="Followers" />
 
 </div>
 
