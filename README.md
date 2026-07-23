@@ -53,8 +53,8 @@ I enjoy turning ideas into projects that are practical, visual, and meaningful â
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nandakshat9988&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandakshat9988&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nandakshat9988&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandakshat9988&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" />
 
 <br/>
 
